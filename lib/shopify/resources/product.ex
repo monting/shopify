@@ -29,6 +29,7 @@ defmodule Shopify.Product do
     :options,
     :product_type,
     :published_at,
+    :published,
     :published_scope,
     :tags,
     :template_suffix,
